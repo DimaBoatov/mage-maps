@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+ * Magento Maps by Frozenminds
+ *
+ * @link        https://github.com/frozenminds/mage-maps
+ * @package     Frozenminds_Maps
+ * @copyright   Copyright (c) 2013 Frozenminds (http://frozenminds.com)
+ * @license     http://opensource.org/licenses/MIT MIT License
+ * @author      Constantin Bejenaru <boby@frozenminds.com>
+ */
+-->
+<config>
+    <modules>
+        <Frozenminds_Maps>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Frozenminds_Maps>
+    </modules>
+</config>
