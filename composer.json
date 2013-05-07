@@ -1,0 +1,39 @@
+{
+    "name": "frozenminds/mage-maps",
+    "description": "Integration of Google Maps with Magento to enhance user experience.",
+    "version": "0.1.0",
+    "type": "magento-module",
+    "keywords": [
+        "ux",
+        "magento",
+        "maps",
+        "google maps",
+        "gmaps",
+        "checkout",
+        "frozenminds"
+    ],
+    "homepage": "https://github.com/frozenminds/mage-maps",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Constantin Bejenaru",
+            "email": "boby@frozenminds.com",
+            "homepage": "http://frozenminds.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "wiki": "https://github.com/frozenminds/mage-maps/wiki",
+        "issues": "https://github.com/frozenminds/mage-maps/issues",
+        "source": "https://github.com/frozenminds/mage-maps"
+    },
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "extra": {
+        "map": [
+            ["app/etc/modules/Frozenminds_Maps.xml", "app/etc/modules/Frozenminds_Maps.xml"],
+            ["app/code/local/Frozenminds/Maps/", "app/code/local/Frozenminds/Maps/"]
+        ]
+    }
+}

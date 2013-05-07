@@ -1,4 +1,4 @@
 Magento Maps
 ============
 
-Toolkit for Google Maps integration with Magento.
+User experience improvement for Magento by integrating Google Maps into the address management process.
