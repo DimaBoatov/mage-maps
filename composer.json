@@ -28,7 +28,7 @@
         "source": "https://github.com/frozenminds/mage-maps"
     },
     "require": {
-        "magento-hackathon/magento-composer-installer": "dev-master"
+        "magento-hackathon/magento-composer-installer": "1.1"
     },
     "extra": {
         "map": [
